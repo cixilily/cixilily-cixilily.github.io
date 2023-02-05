@@ -1,2 +1,2 @@
-# cixilily-cixilily.github.io
-cixilily/cixilily.github.io
+# cixilily.github.io
+cixilily.github.io
